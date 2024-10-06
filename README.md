@@ -5,3 +5,7 @@ The code utilized Pro version of Colab. As a result, the following submission wa
 <br>
 Youtube Demo <br>
 https://youtu.be/u0DxI7IGJ3A  <br>
+
+**Autogluon** <br>
+i.1 Tabular Classification/Regression <br>
+i.2 Multimodal Tabular
