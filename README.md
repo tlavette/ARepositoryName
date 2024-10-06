@@ -7,5 +7,6 @@ Youtube Demo <br>
 https://youtu.be/u0DxI7IGJ3A  <br>
 
 **Autogluon** <br>
-i.1 Tabular Classification/Regression <br>
-i.2 Multimodal Tabular
+Colab Link for the following: https://colab.research.google.com/drive/13hcSZCwl7-ZfCyz2uwdiyKYTjJrE1xi9?usp=sharing <br>
+i.1 Tabular Classification/Regression    <br>
+i.2 Multimodal Tabular  <br>
